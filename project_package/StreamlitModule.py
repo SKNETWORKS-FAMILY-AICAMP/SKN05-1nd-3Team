@@ -431,11 +431,11 @@ def show_faq(selected_company, faqs_dict):
 
 
 table_mapping = {
-    '브랜드 별 판매량' : 'carsalestbl',
-    '차종 별 등록 수' : 'chajong',
-    '시도 별 등록 수' : 'sido',
-    '용도 별 등록 수' : 'yongdo',
-    '자동차 등록 현황' : 'main',
+    '📌 브랜드 별 판매량' : 'carsalestbl',
+    '📌 차종 별 등록 수' : 'chajong',
+    '📌 시도 별 등록 수' : 'sido',
+    '📌 용도 별 등록 수' : 'yongdo',
+    '📌 자동차 등록 현황' : 'main',
 }
 
 
