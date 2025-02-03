@@ -1,6 +1,6 @@
 # SKN05-1nd-3Team
 
-## SK Networks Family AI Camp 5기 과정 1차 프로젝트
+## SK Networks Family AI Camp 5기 과정 1차 프로젝트 
 ---
 
 ### 📌 1. 팀 소개
